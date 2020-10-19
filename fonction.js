@@ -2,7 +2,9 @@ function Shape(name, sides, sideLength) {
   this.name = name;
   this.sides = sides;
   this.sideLength = sideLength;
+
    //voici mon code
+   
    class Triangle {
     constructor(distance1, distance2, distance3) {
       this.distance1 = distance1;
